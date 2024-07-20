@@ -19,3 +19,5 @@ Este é um aplicativo de upload de imagens que permite aos usuários tirar fotos
 
 O usuário poderá rodar a aplicação acessando o repositório https://github.com/Lianicole/AtividadeAvaliativa4_PWA e baixando os arquivos compactados
 ou clonando o projeto na sua máquina: $ git clone git@github.com:Lianicole/AtividadeAvaliativa4_PWA.git
+
+Video demonstrativo: https://drive.google.com/file/d/1uQO7YT8q32PWZKN-45SLm5LBoB84CCNf/view?usp=sharing
